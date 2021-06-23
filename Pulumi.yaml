@@ -1,0 +1,3 @@
+name: kash-sweene-poc
+runtime: nodejs
+description: An example IaC application for use with pull K8s operator.
